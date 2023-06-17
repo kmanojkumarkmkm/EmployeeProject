@@ -6,7 +6,7 @@ import java.io.FileReader;
 import java.io.IOException;
 
 public class CheckMyMail {
-// master change in git
+// master change in git remote file
 	public static void main(String[] args) throws IOException {
 
 		try {
