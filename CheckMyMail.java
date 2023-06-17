@@ -17,6 +17,7 @@ public class CheckMyMail {
 		int xyz=0;
 		String abc="This change In after conflict";
 		// check the branching
+		// new branch
 		while ((temp=fr.read())!=-1) {
 			System.out.print((char)temp);
 		}
