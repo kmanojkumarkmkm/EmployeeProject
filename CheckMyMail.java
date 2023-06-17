@@ -15,6 +15,7 @@ public class CheckMyMail {
 		int temp=0;
 		// its my change 
 		int xyz=0;
+		String abc="This change In master";
 		while ((temp=fr.read())!=-1) {
 			System.out.print((char)temp);
 		}
