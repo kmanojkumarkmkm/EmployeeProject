@@ -15,7 +15,7 @@ public class CheckMyMail {
 		int temp=0;
 		// its my change 
 		int xyz=0;
-		String abc="This change In Local";
+		String abc="This change In after conflict";
 		while ((temp=fr.read())!=-1) {
 			System.out.print((char)temp);
 		}
